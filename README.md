@@ -1,4 +1,4 @@
-[<img src="https://avatars.mds.yandex.net/get-lpc/1531919/85e47d45-cd4a-4a98-ad5d-6a93520b60af/width_1920"/>][Y&Y]
+[<img align='right' width=200px src="https://image.flaticon.com/icons/png/512/246/246182.png"/>][Y&Y]
 # Contests
 ## Backend
 ### [Андрей и кислота](https://github.com/Nps-rf/YandexInternship2022/blob/master/Backend/Andrew%20and%20acid.py)
@@ -8,7 +8,6 @@
 | Ограничение памяти | 512mb |
 | Ввод | стандартный ввод или input.txt |
 | Вывод | стандартный вывод или output.txt
- |
 #### Условие
 Андрей работает в секретной химической лаборатории, в которой производят опасную кислоту с удивительными свойствами.
 У Андрея есть **n** бесконечно больших резервуаров, расположенных в один ряд.
