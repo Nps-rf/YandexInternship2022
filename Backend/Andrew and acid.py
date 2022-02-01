@@ -6,4 +6,5 @@ for i in range(len(set(Volumes))):
     maximal = max(Volumes[i], maximal)
     if Volumes[i] < maximal:
         answer = -1
+        break
 print(max(Volumes) - min(Volumes) if answer == 0 else answer)
