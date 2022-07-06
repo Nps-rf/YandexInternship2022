@@ -1,4 +1,3 @@
-[<img align='right' width=200px src="https://image.flaticon.com/icons/png/512/246/246182.png"/>][Y&Y]
 # Contests
 ## Backend
 ### [Андрей и кислота](https://github.com/Nps-rf/YandexInternship2022/blob/master/Backend/Andrew%20and%20acid.py)
